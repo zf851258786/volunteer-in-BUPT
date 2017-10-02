@@ -1,0 +1,12 @@
+/* pages/first page/first page.wxss */
+.search{
+  background-color: #fff;
+  font-size: 40rpx;
+  padding-left: 40rpx;
+  padding-top: 15rpx;
+  padding-bottom: 15rpx;
+  margin: 15rpx 15rpx 15rpx 15rpx;
+  border-radius: 15rpx;
+  border-style: solid;
+  border-color:#e6e6fa;
+}
