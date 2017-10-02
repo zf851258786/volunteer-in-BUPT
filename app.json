@@ -1,0 +1,40 @@
+{
+  "pages":[
+    "pages/first page/first page",
+    "pages/mypage/mypage",
+    "pages/index/index",
+    "pages/secondpage/secondpage",
+    "pages/logs/logs"
+   
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#50bafb",
+    "navigationBarTitleText": "志愿北邮",
+    "navigationBarTextStyle":"black",
+    "enablePullDownRefresh":true
+  },
+  "tabBar": {
+    "selectedColor":"#12afed",
+    "backgroundColor":"#f0f8ff",
+    "list": [
+      {
+        "selectedIconPath": "/images/home_active.png",
+        "iconPath": "/images/home.png",
+        "pagePath": "pages/first page/first page",
+        "text": "首页"
+        
+      },
+      {
+        "selectedIconPath": "/images/more_active.png",
+        "iconPath": "/images/more.png",
+        "pagePath":"pages/secondpage/secondpage",
+        "text":"分区"},
+      {
+        "selectedIconPath":"/images/my_active.png",
+        "iconPath":"/images/my.png",
+        "pagePath":"pages/mypage/mypage",
+        "text":"我的"}
+    ]
+  }
+}
