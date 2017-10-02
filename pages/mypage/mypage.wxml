@@ -1,0 +1,10 @@
+<!--pages/mypage/mypage.wxml-->
+<view >
+<image src='/images/face.png'  class="face"></image>
+<button></button>
+</view>
+<view  class='button'>
+<button  class='button1'>我的资料</button>
+<button  class='button2'>我报名的项目</button>
+<button  class='button3'>我已完成的项目</button>
+</view>
