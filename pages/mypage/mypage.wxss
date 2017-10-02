@@ -1,0 +1,25 @@
+/* pages/mypage/mypage.wxss */
+.face{
+  margin-top: 200rpx;
+  margin-bottom: 200rpx;
+  height: 230rpx;
+  width:280rpx;
+  position: absolute;
+  left: 230rpx;
+}
+.button1{
+  position: relative;
+  top:500rpx;
+}
+.button2{
+  position:relative;
+  top:500rpx;
+}
+.button3{
+  position:relative;
+  top: 500rpx;
+}
+.button{
+  margin: 0rpx;
+  padding: 0rpx;
+}
