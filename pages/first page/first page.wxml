@@ -1,0 +1,4 @@
+<!--first page.wxml-->
+<view class="search">
+<input tupe='text' bindblur='phoneBlur' placeholder='搜索' maxlength='11'/>
+</view>
